@@ -1,0 +1,7 @@
+a)
+    #define x_cube(x) ((x)*(x)*(x))
+b)
+    #define remainder_four(n) ((n) % 4)
+c) 
+    #define product(x, y) (((x)*(y) < 100) ? 1 : 0)
+       
